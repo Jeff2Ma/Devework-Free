@@ -7,7 +7,7 @@ Devework 主题的免费版本，仅供研究之用。免费版不再更新，�
 
 较收费版，免费版没有或删减了大量功能，用户体验上会有所欠缺。如需更好的服务，请购买收费版！
 
-主题主页：http://devework.com/theme/devework/
+收费版主题主页及购买地址：http://devework.com/theme/devework/
 
 ##区别说明
 
